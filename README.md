@@ -1,6 +1,8 @@
 Product Sequence
 ================
 
+**This project has been moved to https://launchpad.net/~eoc**
+
 This module allows to associate a sequence to the product reference.
 The reference (default code) is unique (SQL constraint) and required.
 
